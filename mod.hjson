@@ -1,1 +1,8 @@
-
+name: "concept-art"
+displayName: "Concept Art Texturepack"
+author: "blopTM"
+description: "texture pac"
+version: "1.0"
+minGameVersion: "131"
+dependencies: [ ]
+hidden: false
